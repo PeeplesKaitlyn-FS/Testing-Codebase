@@ -48,8 +48,3 @@ console.log(findMax([1, 2, 3, 4, 5])); // Output: 5
 ### Testing
 
 Run npm test to execute the test suite.
-
-### Contributing
-
-Pull requests and issues are welcome!
-
